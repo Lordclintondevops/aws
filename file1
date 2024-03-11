@@ -1,0 +1,10 @@
+total 124
+drwxrwxr-x  3 ubuntu ubuntu  4096 Mar 11 22:57 ./
+drwxr-x--- 11 ubuntu ubuntu  4096 Mar 11 22:57 ../
+-rw-r--r--  1 ubuntu ubuntu 36864 Mar 11 22:59 .file3.swp
+drwxrwxr-x  7 ubuntu ubuntu  4096 Mar 11 22:52 .git/
+-rw-rw-r--  1 ubuntu ubuntu     0 Mar 11 22:57 file1
+-rw-rw-r--  1 ubuntu ubuntu 13321 Mar 11 22:57 file2
+-rw-rw-r--  1 ubuntu ubuntu 53234 Mar 11 22:59 file3
+-rw-rw-r--  1 ubuntu ubuntu     0 Mar 11 22:57 file4
+-rw-rw-r--  1 ubuntu ubuntu   109 Mar 11 22:56 test.sh
